@@ -24,17 +24,17 @@ function parse(data) {
 				
 				type: name.substring(name.indexOf('-')+1, name.indexOf('(')),
 
-				enrollment: {
-					current: grab(sectionInfo, 'UM_DERIVED_SR_ENRL_TOT'),
-
-					total: grab(sectionInfo, 'UM_DERIVED_SR_ENRL_CAP')
-				},
-
 				times: grab(sectionInfo, 'MTG_DAYTIME'),
 
 				location: grab(sectionInfo, 'MTG_ROOM'),
 
-				instructor: grab(sectionInfo, 'MTG_INSTR')
+				instructor: grab(sectionInfo, 'MTG_INSTR'),
+
+				enrollment: {
+					current: grab(sectionInfo, 'UM_DERIVED_SR_ENRL_TOT'),
+
+					total: grab(sectionInfo, 'UM_DERIVED_SR_ENRL_CAP')
+				}
 			});
 		}
 

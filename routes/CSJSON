@@ -1,0 +1,2142 @@
+[
+    {
+        "title": "CMPSCI 105 Computer Literacy",
+        "credits": "3",
+        "gened": "R2",
+        "sections": [
+            {
+                "name": "01-LEC(34173)",
+                "id": "34173",
+                "number": "01",
+                "type": "LEC",
+                "times": "TuTh 11:30AM - 12:45PM",
+                "location": "Marcus Hall room 131",
+                "instructor": "William Verts",
+                "enrollment": {
+                    "current": "189",
+                    "total": "275"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 119 Introduction to Programming",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34208)",
+                "id": "34208",
+                "number": "01",
+                "type": "LEC",
+                "times": "MoWeFr 1:25PM - 2:15PM",
+                "location": "Integ. Learning Center S140",
+                "instructor": "William Verts",
+                "enrollment": {
+                    "current": "90",
+                    "total": "90"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 120 Problem Solving w/Internet",
+        "credits": "3",
+        "gened": "R2",
+        "sections": [
+            {
+                "name": "01-LEC(34207)",
+                "id": "34207",
+                "number": "01",
+                "type": "LEC",
+                "times": "MoWeFr 11:15AM - 12:05PM",
+                "location": "Goessmann Laboratory room 20",
+                "instructor": "William Verts",
+                "enrollment": {
+                    "current": "105",
+                    "total": "140"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 121 Introduction to Problem Solving with Computers",
+        "credits": "4",
+        "gened": "R2",
+        "sections": [
+            {
+                "name": "01-LEC(34175)",
+                "id": "34175",
+                "number": "01",
+                "type": "LEC",
+                "times": "TuTh 11:30AM - 12:45PM",
+                "location": "Integ. Learning Center N151",
+                "instructor": "Gordon Anderson",
+                "enrollment": {
+                    "current": "185",
+                    "total": "500"
+                }
+            },
+            {
+                "name": "01AA-DIS(34221)",
+                "id": "34221",
+                "number": "01AA",
+                "type": "DIS",
+                "times": "Fr 2:30PM - 3:20PM",
+                "location": "Engineering Lab II Room 119",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "16",
+                    "total": "115"
+                }
+            },
+            {
+                "name": "01AB-DIS(34222)",
+                "id": "34222",
+                "number": "01AB",
+                "type": "DIS",
+                "times": "Fr 2:30PM - 3:20PM",
+                "location": "Goessmann Laboratory room 20",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "18",
+                    "total": "115"
+                }
+            },
+            {
+                "name": "01AC-DIS(34223)",
+                "id": "34223",
+                "number": "01AC",
+                "type": "DIS",
+                "times": "Fr 1:25PM - 2:15PM",
+                "location": "Goessmann Laboratory room 20",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "10",
+                    "total": "109"
+                }
+            },
+            {
+                "name": "01AD-DIS(34224)",
+                "id": "34224",
+                "number": "01AD",
+                "type": "DIS",
+                "times": "Fr 1:25PM - 2:15PM",
+                "location": "Integ. Learning Center S131",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "46",
+                    "total": "115"
+                }
+            },
+            {
+                "name": "01AE-DIS(34225)",
+                "id": "34225",
+                "number": "01AE",
+                "type": "DIS",
+                "times": "Fr 12:20PM - 1:10PM",
+                "location": "Integ. Learning Center S131",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "93",
+                    "total": "115"
+                }
+            },
+            {
+                "name": "01AF-DIS(39360)",
+                "id": "39360",
+                "number": "01AF",
+                "type": "DIS",
+                "times": "TBA",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "2",
+                    "total": "99"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 187 Programming w/Data Structures",
+        "credits": "4",
+        "gened": "R2",
+        "sections": [
+            {
+                "name": "01-LEC(34176)",
+                "id": "34176",
+                "number": "01",
+                "type": "LEC",
+                "times": "TuTh 2:30PM - 3:45PM",
+                "location": "Hasbrouck Lab Add room 126",
+                "instructor": "Gerome Miklau",
+                "enrollment": {
+                    "current": "9",
+                    "total": "100"
+                }
+            },
+            {
+                "name": "01AA-DIS(34177)",
+                "id": "34177",
+                "number": "01AA",
+                "type": "DIS",
+                "times": "Mo 10:10AM - 11:00AM",
+                "location": "Lederle Grad Res Tower 223",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "20"
+                }
+            },
+            {
+                "name": "01AB-DIS(34218)",
+                "id": "34218",
+                "number": "01AB",
+                "type": "DIS",
+                "times": "Mo 11:15AM - 12:05PM",
+                "location": "Lederle Grad Res Tower 223",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "20"
+                }
+            },
+            {
+                "name": "01AC-DIS(34169)",
+                "id": "34169",
+                "number": "01AC",
+                "type": "DIS",
+                "times": "Mo 1:25PM - 2:15PM",
+                "location": "Lederle Grad Res Tower 223",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "1",
+                    "total": "20"
+                }
+            },
+            {
+                "name": "01AD-DIS(34172)",
+                "id": "34172",
+                "number": "01AD",
+                "type": "DIS",
+                "times": "Mo 2:30PM - 3:20PM",
+                "location": "Lederle Grad Res Tower 223",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "2",
+                    "total": "20"
+                }
+            },
+            {
+                "name": "01AE-DIS(34241)",
+                "id": "34241",
+                "number": "01AE",
+                "type": "DIS",
+                "times": "Mo 12:20PM - 1:10PM",
+                "location": "Lederle Grad Res Tower 223",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "6",
+                    "total": "20"
+                }
+            },
+            {
+                "name": "02-LEC(34278)",
+                "id": "34278",
+                "number": "02",
+                "type": "LEC",
+                "times": "TuTh 2:30PM - 3:45PM",
+                "location": "Hasbrouck Lab Add room 124",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "2",
+                    "total": "100"
+                }
+            },
+            {
+                "name": "02AA-DIS(34279)",
+                "id": "34279",
+                "number": "02AA",
+                "type": "DIS",
+                "times": "Mo 10:10AM - 11:00AM",
+                "location": "Lederle Grad Res Tower 223",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "20"
+                }
+            },
+            {
+                "name": "02AB-DIS(34280)",
+                "id": "34280",
+                "number": "02AB",
+                "type": "DIS",
+                "times": "Mo 11:15AM - 12:05PM",
+                "location": "Lederle Grad Res Tower 223",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "20"
+                }
+            },
+            {
+                "name": "02AC-DIS(34281)",
+                "id": "34281",
+                "number": "02AC",
+                "type": "DIS",
+                "times": "Mo 1:25PM - 2:15PM",
+                "location": "Lederle Grad Res Tower 223",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "20"
+                }
+            },
+            {
+                "name": "02AD-DIS(34282)",
+                "id": "34282",
+                "number": "02AD",
+                "type": "DIS",
+                "times": "Mo 2:30PM - 3:20PM",
+                "location": "Lederle Grad Res Tower 223",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "1",
+                    "total": "20"
+                }
+            },
+            {
+                "name": "02AE-DIS(34283)",
+                "id": "34283",
+                "number": "02AE",
+                "type": "DIS",
+                "times": "Mo 12:20PM - 1:10PM",
+                "location": "Lederle Grad Res Tower 223",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "1",
+                    "total": "20"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 190DM A Mathematical Foundation for Informatics",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34247)",
+                "id": "34247",
+                "number": "01",
+                "type": "LEC",
+                "times": "MoWeFr 11:15AM - 12:05PM",
+                "location": "TBA",
+                "instructor": "David Barrington",
+                "enrollment": {
+                    "current": "8",
+                    "total": "25"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 190IN Introduction to Informatics",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34266)",
+                "id": "34266",
+                "number": "01",
+                "type": "LEC",
+                "times": "TuTh 2:30PM - 3:45PM",
+                "location": "Engineering Laboratory rm 323",
+                "instructor": "Michelle Trim",
+                "enrollment": {
+                    "current": "11",
+                    "total": "50"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 191A S-CMPSCI Major RAP Seminar",
+        "credits": "1",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-SEM(34178)",
+                "id": "34178",
+                "number": "01",
+                "type": "SEM",
+                "times": "Mo 4:00PM - 5:00PM",
+                "location": "TBA",
+                "instructor": "David Barrington",
+                "enrollment": {
+                    "current": "0",
+                    "total": "19"
+                }
+            },
+            {
+                "name": "02-SEM(39304)",
+                "id": "39304",
+                "number": "02",
+                "type": "SEM",
+                "times": "TBA",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "19"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 196 Independent Study",
+        "credits": "1-6",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-IND(34179)",
+                "id": "34179",
+                "number": "01",
+                "type": "IND",
+                "times": "TBA",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "25"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 196ISH Honors Independent Study in CMPSCI",
+        "credits": "3-6",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-IND(34206)",
+                "id": "34206",
+                "number": "01",
+                "type": "IND",
+                "times": "TBA",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "25"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 197B ST-Advanced Assignments for 121",
+        "credits": "1",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-SEM(34254)",
+                "id": "34254",
+                "number": "01",
+                "type": "SEM",
+                "times": "TBA",
+                "location": "TBA",
+                "instructor": "Gordon Anderson",
+                "enrollment": {
+                    "current": "0",
+                    "total": "40"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 197C ST-Programming in C",
+        "credits": "1",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34234)",
+                "id": "34234",
+                "number": "01",
+                "type": "LEC",
+                "times": "We 4:00PM - 5:15PM",
+                "location": "Lederle Grad Res Tower 223",
+                "instructor": "Nicolas Scarrci",
+                "enrollment": {
+                    "current": "9",
+                    "total": "20"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 197U ST-A Hands-On Intro to UNIX",
+        "credits": "1",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34213)",
+                "id": "34213",
+                "number": "01",
+                "type": "LEC",
+                "times": "TuTh 4:00PM - 5:15PM",
+                "location": "Engineering Laboratory rm 323",
+                "instructor": "Tian Guo",
+                "enrollment": {
+                    "current": "7",
+                    "total": "60"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 197WP Special Topics - Introduction to HTML/CSS",
+        "credits": "1",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34269)",
+                "id": "34269",
+                "number": "01",
+                "type": "LEC",
+                "times": "Tu 4:00PM - 5:15PM",
+                "location": "Lederle Grad Res Tower 223",
+                "instructor": "Nicolas Scarrci",
+                "enrollment": {
+                    "current": "4",
+                    "total": "20"
+                }
+            },
+            {
+                "name": "02-LEC(34272)",
+                "id": "34272",
+                "number": "02",
+                "type": "LEC",
+                "times": "Th 4:00PM - 5:15PM",
+                "location": "Lederle Grad Res Tower 223",
+                "instructor": "Nicolas Scarrci",
+                "enrollment": {
+                    "current": "1",
+                    "total": "20"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 220 Programming Methodology",
+        "credits": "4",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34212)",
+                "id": "34212",
+                "number": "01",
+                "type": "LEC",
+                "times": "TuTh 2:30PM - 3:45PM",
+                "location": "Goessmann Lab. Add rm 64",
+                "instructor": "Timothy Richards",
+                "enrollment": {
+                    "current": "103",
+                    "total": "180"
+                }
+            },
+            {
+                "name": "01AA-DIS(34226)",
+                "id": "34226",
+                "number": "01AA",
+                "type": "DIS",
+                "times": "Fr 11:15AM - 12:05PM",
+                "location": "Engineering Laboratory rm 323",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "33",
+                    "total": "45"
+                }
+            },
+            {
+                "name": "01AB-DIS(34227)",
+                "id": "34227",
+                "number": "01AB",
+                "type": "DIS",
+                "times": "Fr 12:20PM - 1:10PM",
+                "location": "Engineering Laboratory rm 323",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "42",
+                    "total": "45"
+                }
+            },
+            {
+                "name": "01AC-DIS(34250)",
+                "id": "34250",
+                "number": "01AC",
+                "type": "DIS",
+                "times": "Fr 9:05AM - 9:55AM",
+                "location": "Engineering Laboratory rm 303",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "4",
+                    "total": "45"
+                }
+            },
+            {
+                "name": "01AD-DIS(38879)",
+                "id": "38879",
+                "number": "01AD",
+                "type": "DIS",
+                "times": "Fr 2:30PM - 3:20PM",
+                "location": "Engineering Laboratory rm 323",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "24",
+                    "total": "45"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 230 Computer Systems Principles",
+        "credits": "4",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34214)",
+                "id": "34214",
+                "number": "01",
+                "type": "LEC",
+                "times": "TuTh 11:30AM - 12:45PM",
+                "location": "Morrill Sci. Ctr. (II) rm 131",
+                "instructor": "J Moss",
+                "enrollment": {
+                    "current": "104",
+                    "total": "180"
+                }
+            },
+            {
+                "name": "01AA-DIS(34236)",
+                "id": "34236",
+                "number": "01AA",
+                "type": "DIS",
+                "times": "Fr 10:10AM - 11:00AM",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "21",
+                    "total": "30"
+                }
+            },
+            {
+                "name": "01AB-DIS(34160)",
+                "id": "34160",
+                "number": "01AB",
+                "type": "DIS",
+                "times": "Fr 9:05AM - 9:55AM",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "12",
+                    "total": "30"
+                }
+            },
+            {
+                "name": "01AC-DIS(34260)",
+                "id": "34260",
+                "number": "01AC",
+                "type": "DIS",
+                "times": "Fr 11:15AM - 12:05PM",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "29",
+                    "total": "30"
+                }
+            },
+            {
+                "name": "01AD-DIS(38876)",
+                "id": "38876",
+                "number": "01AD",
+                "type": "DIS",
+                "times": "Fr 10:10AM - 11:00AM",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "15",
+                    "total": "30"
+                }
+            },
+            {
+                "name": "01AE-DIS(38877)",
+                "id": "38877",
+                "number": "01AE",
+                "type": "DIS",
+                "times": "Fr 9:05AM - 9:55AM",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "2",
+                    "total": "30"
+                }
+            },
+            {
+                "name": "01AF-DIS(38878)",
+                "id": "38878",
+                "number": "01AF",
+                "type": "DIS",
+                "times": "Fr 11:15AM - 12:05PM",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "25",
+                    "total": "30"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 240 Reasoning Under Uncertainty",
+        "credits": "4",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34209)",
+                "id": "34209",
+                "number": "01",
+                "type": "LEC",
+                "times": "MoWe 2:30PM - 3:45PM",
+                "location": "Goessmann Lab. Add rm 64",
+                "instructor": "Benjamin Marlin",
+                "enrollment": {
+                    "current": "97",
+                    "total": "180"
+                }
+            },
+            {
+                "name": "01AA-DIS(34228)",
+                "id": "34228",
+                "number": "01AA",
+                "type": "DIS",
+                "times": "Fr 1:25PM - 2:15PM",
+                "location": "Lederle Grad Res Ctr rm A301",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "24",
+                    "total": "45"
+                }
+            },
+            {
+                "name": "01AB-DIS(34161)",
+                "id": "34161",
+                "number": "01AB",
+                "type": "DIS",
+                "times": "Fr 10:10AM - 11:00AM",
+                "location": "Lederle Grad Res Ctr rm A301",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "29",
+                    "total": "45"
+                }
+            },
+            {
+                "name": "01AC-DIS(34238)",
+                "id": "34238",
+                "number": "01AC",
+                "type": "DIS",
+                "times": "Fr 12:20PM - 1:10PM",
+                "location": "Lederle Grad Res Ctr rm A301",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "30",
+                    "total": "45"
+                }
+            },
+            {
+                "name": "01AD-DIS(38880)",
+                "id": "38880",
+                "number": "01AD",
+                "type": "DIS",
+                "times": "Fr 11:15AM - 12:05PM",
+                "location": "Lederle Grad Res Ctr rm A301",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "14",
+                    "total": "45"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 250 Introduction To Computation",
+        "credits": "4",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34180)",
+                "id": "34180",
+                "number": "01",
+                "type": "LEC",
+                "times": "MoWeFr 1:25PM - 2:15PM",
+                "location": "Goessmann Lab. Add rm 64",
+                "instructor": "David Barrington",
+                "enrollment": {
+                    "current": "123",
+                    "total": "180"
+                }
+            },
+            {
+                "name": "01AA-DIS(34181)",
+                "id": "34181",
+                "number": "01AA",
+                "type": "DIS",
+                "times": "We 11:15AM - 12:05PM",
+                "location": "Lederle Grad Res Ctr rm A301",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "36",
+                    "total": "45"
+                }
+            },
+            {
+                "name": "01AB-DIS(34219)",
+                "id": "34219",
+                "number": "01AB",
+                "type": "DIS",
+                "times": "We 12:20PM - 1:10PM",
+                "location": "Ag. Engineering Bldg rm 119",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "45",
+                    "total": "45"
+                }
+            },
+            {
+                "name": "01AC-DIS(38881)",
+                "id": "38881",
+                "number": "01AC",
+                "type": "DIS",
+                "times": "We 11:15AM - 12:05PM",
+                "location": "Lederle Grad Res Tower rm 121",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "25",
+                    "total": "45"
+                }
+            },
+            {
+                "name": "01AD-DIS(38882)",
+                "id": "38882",
+                "number": "01AD",
+                "type": "DIS",
+                "times": "We 12:20PM - 1:10PM",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "17",
+                    "total": "45"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 296 Independent Study",
+        "credits": "1-6",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-IND(34182)",
+                "id": "34182",
+                "number": "01",
+                "type": "IND",
+                "times": "TBA",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "25"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 296ISH Honors Independent Study in CMPSCI",
+        "credits": "3-6",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-IND(34204)",
+                "id": "34204",
+                "number": "01",
+                "type": "IND",
+                "times": "TBA",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "25"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 305 Social Issues in Computing",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34183)",
+                "id": "34183",
+                "number": "01",
+                "type": "LEC",
+                "times": "TuTh 11:30AM - 12:45PM",
+                "location": "TBA",
+                "instructor": "Michelle Trim",
+                "enrollment": {
+                    "current": "25",
+                    "total": "25"
+                }
+            },
+            {
+                "name": "02-LEC(34162)",
+                "id": "34162",
+                "number": "02",
+                "type": "LEC",
+                "times": "TuTh 10:00AM - 11:15AM",
+                "location": "TBA",
+                "instructor": "Michelle Trim",
+                "enrollment": {
+                    "current": "25",
+                    "total": "25"
+                }
+            },
+            {
+                "name": "03-LEC(38648)",
+                "id": "38648",
+                "number": "03",
+                "type": "LEC",
+                "times": "MoWeFr 11:15AM - 12:05PM",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "25",
+                    "total": "25"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 311 Intro To Algorithms",
+        "credits": "4",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34184)",
+                "id": "34184",
+                "number": "01",
+                "type": "LEC",
+                "times": "TuTh 11:30AM - 12:45PM",
+                "location": "Goessmann Lab. Add rm 64",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "110",
+                    "total": "120"
+                }
+            },
+            {
+                "name": "01AA-DIS(34185)",
+                "id": "34185",
+                "number": "01AA",
+                "type": "DIS",
+                "times": "We 1:25PM - 2:15PM",
+                "location": "Engineering Laboratory rm 303",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "40",
+                    "total": "40"
+                }
+            },
+            {
+                "name": "01AB-DIS(34268)",
+                "id": "34268",
+                "number": "01AB",
+                "type": "DIS",
+                "times": "We 11:15AM - 12:05PM",
+                "location": "Engineering Laboratory rm 323",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "40",
+                    "total": "40"
+                }
+            },
+            {
+                "name": "01AC-DIS(38883)",
+                "id": "38883",
+                "number": "01AC",
+                "type": "DIS",
+                "times": "We 10:10AM - 11:00AM",
+                "location": "Engineering Laboratory rm 304",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "30",
+                    "total": "40"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 320 Software Engineering",
+        "credits": "4",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34186)",
+                "id": "34186",
+                "number": "01",
+                "type": "LEC",
+                "times": "TuTh 1:00PM - 2:15PM",
+                "location": "Computer Science Bldg rm 142",
+                "instructor": "Gordon Anderson",
+                "enrollment": {
+                    "current": "40",
+                    "total": "40"
+                }
+            },
+            {
+                "name": "01AA-DIS(34203)",
+                "id": "34203",
+                "number": "01AA",
+                "type": "DIS",
+                "times": "We 1:25PM - 2:15PM",
+                "location": "Computer Science Bldg rm 142",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "40",
+                    "total": "40"
+                }
+            },
+            {
+                "name": "02-LEC(34270)",
+                "id": "34270",
+                "number": "02",
+                "type": "LEC",
+                "times": "TuTh 1:00PM - 2:15PM",
+                "location": "Hasbrouck Lab Add room 113",
+                "instructor": "John Ridgway",
+                "enrollment": {
+                    "current": "40",
+                    "total": "40"
+                }
+            },
+            {
+                "name": "02AA-DIS(34271)",
+                "id": "34271",
+                "number": "02AA",
+                "type": "DIS",
+                "times": "We 12:20PM - 1:10PM",
+                "location": "Engineering Laboratory rm 323",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "40",
+                    "total": "40"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 325 Usability",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34167)",
+                "id": "34167",
+                "number": "01",
+                "type": "LEC",
+                "times": "MoWe 4:00PM - 5:15PM",
+                "location": "Computer Science Bldg rm 142",
+                "instructor": "Eva Hudlicka",
+                "enrollment": {
+                    "current": "50",
+                    "total": "50"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 326 Web Programming",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34166)",
+                "id": "34166",
+                "number": "01",
+                "type": "LEC",
+                "times": "TuTh 4:00PM - 5:15PM",
+                "location": "Hasbrouck Lab Add room 126",
+                "instructor": "Timothy Richards",
+                "enrollment": {
+                    "current": "80",
+                    "total": "80"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 345 Practice and Applications of Data Management",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34239)",
+                "id": "34239",
+                "number": "01",
+                "type": "LEC",
+                "times": "MoWe 2:30PM - 3:45PM",
+                "location": "Goessmann Lab Addtn rm 151",
+                "instructor": "Alexandra Meliou",
+                "enrollment": {
+                    "current": "60",
+                    "total": "60"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 377 Operating Systems",
+        "credits": "4",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34163)",
+                "id": "34163",
+                "number": "01",
+                "type": "LEC",
+                "times": "TuTh 8:30AM - 9:45AM",
+                "location": "Integ. Learning Center S140",
+                "instructor": "Prashant Shenoy",
+                "enrollment": {
+                    "current": "68",
+                    "total": "80"
+                }
+            },
+            {
+                "name": "01AA-DIS(34164)",
+                "id": "34164",
+                "number": "01AA",
+                "type": "DIS",
+                "times": "Fr 1:25PM - 2:15PM",
+                "location": "Engineering Laboratory rm 303",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "68",
+                    "total": "80"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 383 Artificial Intelligence",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34230)",
+                "id": "34230",
+                "number": "01",
+                "type": "LEC",
+                "times": "TuTh 10:00AM - 11:15AM",
+                "location": "Morrill 2&nbsp; Room 222",
+                "instructor": "Hava Siegelmann",
+                "enrollment": {
+                    "current": "60",
+                    "total": "60"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 390MB Mobile Health Sensing and Monitoring",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34249)",
+                "id": "34249",
+                "number": "01",
+                "type": "LEC",
+                "times": "MoWeFr 1:25PM - 2:15PM",
+                "location": "Computer Science Bldg rm 140",
+                "instructor": "Deepak Ganesan",
+                "enrollment": {
+                    "current": "31",
+                    "total": "36"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 391L S-Computer Crime Law: Technologies of Investigation and Privacy",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34263)",
+                "id": "34263",
+                "number": "01",
+                "type": "LEC",
+                "times": "MoWe 2:30PM - 3:45PM",
+                "location": "Lederle Grad Res Tower rm 121",
+                "instructor": "Brian Levine",
+                "enrollment": {
+                    "current": "39",
+                    "total": "50"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 396 Independent Study",
+        "credits": "1-6",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-IND(34187)",
+                "id": "34187",
+                "number": "01",
+                "type": "IND",
+                "times": "TBA",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "25"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 396ISH Honors Independent Study in CMPSCI",
+        "credits": "3-6",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-IND(34205)",
+                "id": "34205",
+                "number": "01",
+                "type": "IND",
+                "times": "TBA",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "25"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 397J Special Topics - Introductory Javascript Game Development",
+        "credits": "1",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(39493)",
+                "id": "39493",
+                "number": "01",
+                "type": "LEC",
+                "times": "Th 4:00PM - 5:15PM",
+                "location": "Computer Science Bldg rm 140",
+                "instructor": "Colin Tincknell",
+                "enrollment": {
+                    "current": "12",
+                    "total": "20"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 453 Computer Networks",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34235)",
+                "id": "34235",
+                "number": "01",
+                "type": "LEC",
+                "times": "TuTh 11:30AM - 12:45PM",
+                "location": "Lederle Grad Res Tower rm 123",
+                "instructor": "John Ridgway",
+                "enrollment": {
+                    "current": "65",
+                    "total": "65"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 460 Introduction to Computer and Network Security",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34211)",
+                "id": "34211",
+                "number": "01",
+                "type": "LEC",
+                "times": "MoFr 4:00PM - 5:15PM",
+                "location": "Engineering Laboratory rm 304",
+                "instructor": "Amir Houmansadr",
+                "enrollment": {
+                    "current": "40",
+                    "total": "50"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 474 Image Synthesis",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(38860)",
+                "id": "38860",
+                "number": "01",
+                "type": "LEC",
+                "times": "TuTh 2:30PM - 3:45PM",
+                "location": "Computer Science Bldg rm 140",
+                "instructor": "Rui Wang",
+                "enrollment": {
+                    "current": "25",
+                    "total": "30"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 496 Independent Study",
+        "credits": "1-6",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-IND(34188)",
+                "id": "34188",
+                "number": "01",
+                "type": "IND",
+                "times": "TBA",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "25"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 496ISH Honors Independent Study in CMPSCI",
+        "credits": "3-6",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-IND(34202)",
+                "id": "34202",
+                "number": "01",
+                "type": "IND",
+                "times": "TBA",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "25"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 496S Independent Study- Scalable Web Systems",
+        "credits": "1",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-IND(38704)",
+                "id": "38704",
+                "number": "01",
+                "type": "IND",
+                "times": "Fr 4:00PM - 5:00PM",
+                "location": "Computer Science Bldg rm 140",
+                "instructor": "Timothy Richards",
+                "enrollment": {
+                    "current": "0",
+                    "total": "10"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 497S Special Topics- Scalable Web Systems",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(38705)",
+                "id": "38705",
+                "number": "01",
+                "type": "LEC",
+                "times": "Fr 4:00PM - 5:00PM",
+                "location": "Computer Science Bldg rm 140",
+                "instructor": "Timothy Richards",
+                "enrollment": {
+                    "current": "0",
+                    "total": "10"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 498Y Practicum",
+        "credits": "1-18",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-PRA(34189)",
+                "id": "34189",
+                "number": "01",
+                "type": "PRA",
+                "times": "TBA",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "25"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 499P Honors Project",
+        "credits": "3-6",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-IND(34190)",
+                "id": "34190",
+                "number": "01",
+                "type": "IND",
+                "times": "TBA",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "25"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 499T Honors Thesis",
+        "credits": "3-6",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-IND(34191)",
+                "id": "34191",
+                "number": "01",
+                "type": "IND",
+                "times": "TBA",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "25"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 499Y Honors Research",
+        "credits": "3-6",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-IND(34192)",
+                "id": "34192",
+                "number": "01",
+                "type": "IND",
+                "times": "TBA",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "25"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 503 Embedded Computing Systems",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(38861)",
+                "id": "38861",
+                "number": "01",
+                "type": "LEC",
+                "times": "TuTh 11:30AM - 12:45PM",
+                "location": "Lederle Grad Res Ctr rm A310",
+                "instructor": "Roderic Grupen",
+                "enrollment": {
+                    "current": "12",
+                    "total": "12"
+                }
+            },
+            {
+                "name": "02-LEC(39778)",
+                "id": "39778",
+                "number": "02",
+                "type": "LEC",
+                "times": "TuTh 11:30AM - 12:45PM",
+                "location": "Lederle Grad Res Ctr rm A310",
+                "instructor": "Roderic Grupen",
+                "enrollment": {
+                    "current": "2",
+                    "total": "7"
+                }
+            },
+            {
+                "name": "99LL-LAB(39779)",
+                "id": "39779",
+                "number": "99LL",
+                "type": "LAB",
+                "times": "Mo 2:30PM - 3:45PM",
+                "location": "Lederle Grad Res Ctr rm A311",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "4",
+                    "total": "8"
+                }
+            },
+            {
+                "name": "99LM-LAB(39780)",
+                "id": "39780",
+                "number": "99LM",
+                "type": "LAB",
+                "times": "We 2:30PM - 3:45PM",
+                "location": "Lederle Grad Res Ctr rm A311",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "8",
+                    "total": "8"
+                }
+            },
+            {
+                "name": "99LN-LAB(39781)",
+                "id": "39781",
+                "number": "99LN",
+                "type": "LAB",
+                "times": "Fr 2:30PM - 3:45PM",
+                "location": "Lederle Grad Res Ctr rm A311",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "2",
+                    "total": "8"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 513 Logic in Computer Science",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(38865)",
+                "id": "38865",
+                "number": "01",
+                "type": "LEC",
+                "times": "TuTh 11:30AM - 12:45PM",
+                "location": "Computer Science Bldg rm 140",
+                "instructor": "Neil Immerman",
+                "enrollment": {
+                    "current": "10",
+                    "total": "10"
+                }
+            },
+            {
+                "name": "02-LEC(38866)",
+                "id": "38866",
+                "number": "02",
+                "type": "LEC",
+                "times": "TuTh 11:30AM - 12:45PM",
+                "location": "Computer Science Bldg rm 140",
+                "instructor": "Neil Immerman",
+                "enrollment": {
+                    "current": "3",
+                    "total": "6"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 521 Software Engineering: Analysis and Evaluation",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34170)",
+                "id": "34170",
+                "number": "01",
+                "type": "LEC",
+                "times": "MoWe 11:15AM - 12:30PM",
+                "location": "Computer Science Bldg rm 142",
+                "instructor": "Yuriy Brun",
+                "enrollment": {
+                    "current": "14",
+                    "total": "15"
+                }
+            },
+            {
+                "name": "02-LEC(34252)",
+                "id": "34252",
+                "number": "02",
+                "type": "LEC",
+                "times": "MoWe 11:15AM - 12:30PM",
+                "location": "Computer Science Bldg rm 142",
+                "instructor": "Yuriy Brun",
+                "enrollment": {
+                    "current": "6",
+                    "total": "6"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 529 Software Engineering Project Management",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34210)",
+                "id": "34210",
+                "number": "01",
+                "type": "LEC",
+                "times": "TuTh 1:00PM - 2:15PM",
+                "location": "Computer Science Bldg rm 142",
+                "instructor": "Gordon Anderson",
+                "enrollment": {
+                    "current": "1",
+                    "total": "5"
+                }
+            },
+            {
+                "name": "01AA-DIS(34229)",
+                "id": "34229",
+                "number": "01AA",
+                "type": "DIS",
+                "times": "We 1:25PM - 2:15PM",
+                "location": "Computer Science Bldg rm 142",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "1",
+                    "total": "5"
+                }
+            },
+            {
+                "name": "01AB-SEM(34256)",
+                "id": "34256",
+                "number": "01AB",
+                "type": "SEM",
+                "times": "Tu 5:30PM - 6:30PM",
+                "location": "Lederle - low Rise - 322",
+                "instructor": "Gordon Anderson",
+                "enrollment": {
+                    "current": "1",
+                    "total": "5"
+                }
+            },
+            {
+                "name": "02-LEC(34273)",
+                "id": "34273",
+                "number": "02",
+                "type": "LEC",
+                "times": "TuTh 1:00PM - 2:15PM",
+                "location": "Hasbrouck Lab Add room 113",
+                "instructor": "John Ridgway",
+                "enrollment": {
+                    "current": "0",
+                    "total": "5"
+                }
+            },
+            {
+                "name": "02AA-DIS(34274)",
+                "id": "34274",
+                "number": "02AA",
+                "type": "DIS",
+                "times": "We 12:20PM - 1:10PM",
+                "location": "Engineering Laboratory rm 323",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "5"
+                }
+            },
+            {
+                "name": "02AB-SEM(34275)",
+                "id": "34275",
+                "number": "02AB",
+                "type": "SEM",
+                "times": "Tu 5:30PM - 6:30PM",
+                "location": "Computer Science Bldg rm 303",
+                "instructor": "John Ridgway",
+                "enrollment": {
+                    "current": "0",
+                    "total": "5"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 585 Introduction to Natural Language Processing",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34168)",
+                "id": "34168",
+                "number": "01",
+                "type": "LEC",
+                "times": "TuTh 2:30PM - 3:45PM",
+                "location": "Computer Science Bldg rm 142",
+                "instructor": "Brendan O&#039;Connor",
+                "enrollment": {
+                    "current": "30",
+                    "total": "30"
+                }
+            },
+            {
+                "name": "02-LEC(34251)",
+                "id": "34251",
+                "number": "02",
+                "type": "LEC",
+                "times": "TuTh 2:30PM - 3:45PM",
+                "location": "Computer Science Bldg rm 142",
+                "instructor": "Brendan O&#039;Connor",
+                "enrollment": {
+                    "current": "15",
+                    "total": "15"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 590GC Three Dimensional Modeling and Simulation",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(39661)",
+                "id": "39661",
+                "number": "01",
+                "type": "LEC",
+                "times": "Fr 1:25PM - 3:25PM",
+                "location": "Computer Science Bldg rm 142",
+                "instructor": "Evangelos Kalogerakis",
+                "enrollment": {
+                    "current": "2",
+                    "total": "10"
+                }
+            },
+            {
+                "name": "02-LEC(39813)",
+                "id": "39813",
+                "number": "02",
+                "type": "LEC",
+                "times": "Fr 1:25PM - 3:25PM",
+                "location": "Computer Science Bldg rm 142",
+                "instructor": "Evangelos Kalogerakis",
+                "enrollment": {
+                    "current": "3",
+                    "total": "6"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 596 Independent Study",
+        "credits": "1-6",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-IND(34193)",
+                "id": "34193",
+                "number": "01",
+                "type": "IND",
+                "times": "TBA",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "1",
+                    "total": "25"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 611 Advanced Algorithms",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34194)",
+                "id": "34194",
+                "number": "01",
+                "type": "LEC",
+                "times": "TuTh 11:30AM - 12:45PM",
+                "location": "Computer Science Bldg rm 142",
+                "instructor": "Ramesh Sitaraman",
+                "enrollment": {
+                    "current": "25",
+                    "total": "25"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 621 Advanced Software Engineering: Analysis and Evaluation",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34171)",
+                "id": "34171",
+                "number": "01",
+                "type": "LEC",
+                "times": "MoWe 11:15AM - 12:30PM",
+                "location": "Computer Science Bldg rm 142",
+                "instructor": "Yuriy Brun",
+                "enrollment": {
+                    "current": "8",
+                    "total": "8"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 630 Systems",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34233)",
+                "id": "34233",
+                "number": "01",
+                "type": "LEC",
+                "times": "MoWe 11:15AM - 12:30PM",
+                "location": "Computer Science Bldg rm 140",
+                "instructor": "Emery Berger",
+                "enrollment": {
+                    "current": "10",
+                    "total": "15"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 653 Computer Networking",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34240)",
+                "id": "34240",
+                "number": "01",
+                "type": "LEC",
+                "times": "MoWe 9:05AM - 10:20AM",
+                "location": "Computer Science Bldg rm 142",
+                "instructor": "Donald Towsley",
+                "enrollment": {
+                    "current": "7",
+                    "total": "15"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 683 Artificial Intelligence",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34195)",
+                "id": "34195",
+                "number": "01",
+                "type": "LEC",
+                "times": "TuTh 10:00AM - 11:15AM",
+                "location": "Computer Science Bldg rm 142",
+                "instructor": "Shlomo Zilberstein",
+                "enrollment": {
+                    "current": "13",
+                    "total": "25"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 689 Machine Learning",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(34201)",
+                "id": "34201",
+                "number": "01",
+                "type": "LEC",
+                "times": "MoWe 2:30PM - 3:45PM",
+                "location": "Computer Science Bldg rm 142",
+                "instructor": "Sridhar Mahadevan",
+                "enrollment": {
+                    "current": "9",
+                    "total": "30"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 690GC 3D Modeling and Simulation",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(38886)",
+                "id": "38886",
+                "number": "01",
+                "type": "LEC",
+                "times": "Fr 1:25PM - 3:25PM",
+                "location": "Computer Science Bldg rm 142",
+                "instructor": "Evangelos Kalogerakis",
+                "enrollment": {
+                    "current": "5",
+                    "total": "5"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 690LG Advanced Logic in Computer Science",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(38867)",
+                "id": "38867",
+                "number": "01",
+                "type": "LEC",
+                "times": "TuTh 11:30AM - 12:45PM",
+                "location": "Computer Science Bldg rm 140",
+                "instructor": "Neil Immerman",
+                "enrollment": {
+                    "current": "2",
+                    "total": "9"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 691NN S-Hot Topics in Programming Languages and Systems",
+        "credits": "1",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-SEM(40201)",
+                "id": "40201",
+                "number": "01",
+                "type": "SEM",
+                "times": "MoWe 2:30PM - 3:45PM",
+                "location": "Computer Science Bldg rm 140",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "15"
+                }
+            },
+            {
+                "name": "02-SEM(40203)",
+                "id": "40203",
+                "number": "02",
+                "type": "SEM",
+                "times": "MoWe 2:30PM - 3:45PM",
+                "location": "Computer Science Bldg rm 140",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "2",
+                    "total": "5"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 691O S-Tools/Exlpanatory&amp;TutorSystm",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-SEM(34196)",
+                "id": "34196",
+                "number": "01",
+                "type": "SEM",
+                "times": "Tu 1:00PM - 2:15PM",
+                "location": "Lederle Grad Res Ctr rm A310",
+                "instructor": "Beverly Woolf",
+                "enrollment": {
+                    "current": "2",
+                    "total": "20"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 696 Independent Study",
+        "credits": "1-6",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-IND(34197)",
+                "id": "34197",
+                "number": "01",
+                "type": "IND",
+                "times": "TBA",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "1",
+                    "total": "35"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 697L Special Topics - Deep Learning",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(39541)",
+                "id": "39541",
+                "number": "01",
+                "type": "LEC",
+                "times": "Fr 9:05AM - 12:00PM",
+                "location": "Computer Science Bldg rm 142",
+                "instructor": "Sridhar Mahadevan",
+                "enrollment": {
+                    "current": "31",
+                    "total": "40"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 701 Advanced Topics in Computer Science",
+        "credits": "6",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-IND(34232)",
+                "id": "34232",
+                "number": "01",
+                "type": "IND",
+                "times": "TBA",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "30"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 745 Advanced Topics in Database Systems",
+        "credits": "3",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-LEC(38875)",
+                "id": "38875",
+                "number": "01",
+                "type": "LEC",
+                "times": "MoWe 9:05AM - 10:20AM",
+                "location": "Computer Science Bldg rm 140",
+                "instructor": "Yanlei Diao",
+                "enrollment": {
+                    "current": "1",
+                    "total": "22"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 796 Independent Study",
+        "credits": "1-6",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-IND(34198)",
+                "id": "34198",
+                "number": "01",
+                "type": "IND",
+                "times": "TBA",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "35"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 891M S-Theory of Computation",
+        "credits": "1",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-SEM(34199)",
+                "id": "34199",
+                "number": "01",
+                "type": "SEM",
+                "times": "Tu 4:00PM - 5:00PM",
+                "location": "Computer Science Bldg rm 140",
+                "instructor": "Neil Immerman",
+                "enrollment": {
+                    "current": "1",
+                    "total": "20"
+                }
+            }
+        ]
+    },
+    {
+        "title": "CMPSCI 899 Ph D Dissertation",
+        "credits": "1-9",
+        "gened": "",
+        "sections": [
+            {
+                "name": "01-DST(34200)",
+                "id": "34200",
+                "number": "01",
+                "type": "DST",
+                "times": "TBA",
+                "location": "TBA",
+                "instructor": "Staff",
+                "enrollment": {
+                    "current": "0",
+                    "total": "65"
+                }
+            }
+        ]
+    }
+]

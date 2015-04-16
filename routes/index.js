@@ -17,9 +17,10 @@ router.get('/cmpsci', function(req, res, next) {
 		var classes = parse(data);
 		var write = '';
 		for(var x = 0; x < classes.length; x++) {
-			write += JSON.stringify(classes[x]) + '<br><br>';
+			write += JSON.stringify(classes[x]) + '\n\n';
 		}
-	    res.send(classes);
+		fs.writeFile(path.join(__dirname, 'CSJSON'), JSON.stringify(classes,null,4), function(err) {});
+	    res.write(JSON.stringify(classes));
 	    res.end();
 	    }else{
 		console.log(err);
