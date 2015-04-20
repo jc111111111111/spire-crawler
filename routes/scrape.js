@@ -2,6 +2,8 @@ var casper = require('casper').create();
 var x = require('casper').selectXPath;
 
 casper.start('http://spire.umass.edu/');
+casper.options.pageSettings.userName = 'GUEST';
+casper.options.pageSettings.password = 'GUEST';
 casper.then(function() {
 	this.click('#content > tbody > tr > td.help > p:nth-child(2) > a');
 //	this.clickLabel('Search Classes/Catalog');
