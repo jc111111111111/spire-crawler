@@ -11,7 +11,7 @@ router.get('/:file', function(req, res, next) {
 
 	fs.readFile(filePath, {encoding: 'utf-8'}, function(err,data){
 	    if (!err){
-			res.render('search', {data: JSON.parse(data)});
+			res.render('search', {data: data});
 			res.end();
 	    }else{
 		console.log(err);
