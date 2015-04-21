@@ -11,13 +11,14 @@ $(document).ready(function() {
 	event.preventDefault();
         var searchString = $("#search_box").val();
 	$("#results").append('<li>yup</li>');
-/*	if(searchString) {
-		for(int i = 0; i < data.length; i++) {
+	$("#results").append('<li>' + <% data[0].title %> + '</li>'); 
+	if(searchString) {
+		for(var i = 0; i < data.length; i++) {
 			//if(data[i].title.indexOf(searchString) !== -1) {
 				$("#results").append('<li>' + data[i].title + '</li>');
 			//}
 		}
-        }*/
+        }
     });
 });
 </script>
@@ -32,8 +33,17 @@ $(document).ready(function() {
 				</form>
 			</div>      
 		<div>
+			<div id="classes">
+				<ul id="info">
+					<% for(var i = 0; i < data.length; i++) {%>
+						<li><%=data[i].title%></li>
+					<% } %>
+				</ul>
+			</div>
+		</div>
+		<div>
 			<div id="searchresults">Search results:</div>
-				<ul id="results" class="update"><li>it hasnt worked yet</li></ul>
+				<ul id="results" class="update"></ul>
 			</div>
 		</div>
 	</body>
