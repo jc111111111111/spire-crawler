@@ -1,26 +1,13 @@
-var mongoose = require('mongoose');
+var db = require('monk')('localhost:27017/test');
+var courses = db.get('courses');
 
-var courseSchema = new mongoose.Schema({
-	title: String,
-	credits: String,
-	gened: String,
-	sections: [{
-		name: String,
-		id: String,
-		number: String,
-		type: String,
-		times: String,
-		location: String,
-		instructor: String,
-		enrollment: {
-			current: String,
-			total: String
-		}
-	}]
-});
-/*
-userSchema.methods.getClasses = function(filters, cb) {
-	Course.find(
-    cb(null, isMatch);
-};*/
-module.exports = mongoose.model('Course', courseSchema);
+module.exports = {
+	update: function(course, cb) {
+		courses.
+updateById(
+{id: course.title}, 
+course, 
+{upsert: true}, 
+function(err, doc) { });
+	}
+};

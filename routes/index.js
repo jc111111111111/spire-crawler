@@ -2,8 +2,8 @@ var express = require('express');
 var router = express.Router();
 var fs = require('fs');
 var path = require('path');
-var Course = require('../js/db');
-var parse = require('../js/parser');
+var db = require('../js/db.js');
+var parse = require('../js/parser.js');
 
 router.get('/', function(req, res, next) {
 	res.render('index');
@@ -28,7 +28,7 @@ router.get('/parse/:id', function(req, res, next) {
                 var classes = parse(data);
                 var write = '';
                 for(var x = 0; x < classes.length; x++) {
-			new Course(classes[x]).save(function(err, course) { });
+			db.update(classes[x]);
                 }
             res.write("Parse successful");
             res.end();
