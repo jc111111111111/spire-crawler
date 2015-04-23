@@ -55,6 +55,7 @@ input, textarea, select, a { outline: none; }
 	width: 100%;
 	position: fixed;
 	border-bottom: solid 1px #CCCCCB;
+	background-color: #fff;
 }
 
 #favicon {
@@ -299,12 +300,13 @@ input, textarea, select, a { outline: none; }
 /*    /-/-/-/-/-/-/-/ MAIN \-\-\-\-\-\-\-\    */
 #main {
 	position: fixed;
-	height: 100%;
+	height: auto;
 	width: auto;
-	top: 170px;
+	top: 40px;
 	right: 300px;
 	left: 0;
 	bottom: 0;
 	padding: 10px;
+	padding-top: 140px;
 	overflow: auto;
 }

@@ -24,16 +24,11 @@ $(document).ready(function() {
                type: 'GET',
                url: '/courses',
       }).done(function(data) {
-         $.each(data, function(){
-            $('#main').append('<p>' + this + '</p>')
-         });
+         $('#main').append(data);
+         /*$.each(data, function(){
+            $('#main').append(JSON.stringify(this, null, 3));
+         });*/
       });
-      /*$.get('http://courses', function(data) {
-         var lines = data.split('\n');
-         $.each(lines, function(){
-            $('#main').append('<p>' + this + '</p>')
-         });
-      });*/
    });
    
    //------------- SEARCHBAR EVENTS -------------//
