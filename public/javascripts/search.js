@@ -20,12 +20,20 @@ $(document).ready(function() {
    });
    
    $('body').on('click', '#ajaxButton', function() {
-      $.getJSON('127.0.0.1:3000/courses', function(data) {
+      $.ajax({
+               type: 'GET',
+               url: '/courses',
+      }).done(function(data) {
+         $.each(data, function(){
+            $('#main').append('<p>' + this + '</p>')
+         });
+      });
+      /*$.get('http://courses', function(data) {
          var lines = data.split('\n');
          $.each(lines, function(){
             $('#main').append('<p>' + this + '</p>')
          });
-      });
+      });*/
    });
    
    //------------- SEARCHBAR EVENTS -------------//

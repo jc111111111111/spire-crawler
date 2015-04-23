@@ -24,7 +24,7 @@
 
 /* Styles for DT text box */
 .dropdown dt a {
-    background: #fff url(selectArrow.png) no-repeat right;
+    background: #fff url(../images/selectArrow.png) no-repeat right;
     background-size: contain;
     display: block;
     border: solid 1px #CCCCCB;
