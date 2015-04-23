@@ -3,11 +3,9 @@ var courses = db.get('courses');
 
 module.exports = {
 	update: function(course, cb) {
-		courses.
-updateById(
-{id: course.title}, 
-course, 
-{upsert: true}, 
-function(err, doc) { });
+		courses.updateById({id: course.title}, course, {upsert: true}, function(err, doc) { });
+	},
+	find: function(cb) {
+		courses.find({}, {}, cb);
 	}
 };

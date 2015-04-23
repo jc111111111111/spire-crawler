@@ -8,6 +8,14 @@ var parse = require('../js/parser.js');
 router.get('/', function(req, res, next) {
 	res.render('index');
 });
+router.get('/courses', function(req, res, next) {
+	db.find(function(err, data) {
+		if(err)
+			console.log(err);
+		else
+			res.send(data);
+	});
+});
 router.get('/:file', function(req, res, next) {
 	var filePath = path.join(__dirname, '../public/data/' + req.params.file);
 

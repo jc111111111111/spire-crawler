@@ -2,11 +2,13 @@ var express       = require('express');
 var path          = require('path');
 var logger        = require('morgan');
 var cookieParser  = require('cookie-parser');
+var favicon       = require('serve-favicon');
 var bodyParser    = require('body-parser');
 var routes        = require('./routes/index');
 var app           = express();
 var port          = process.env.PORT || 3000;
 
+app.use(favicon(__dirname + '/public/favicon.ico'));
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 app.use(logger('dev'));
