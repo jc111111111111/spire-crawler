@@ -6,7 +6,7 @@ var db = require('../js/db.js');
 var parse = require('../js/parser.js');
 
 router.get('/', function(req, res, next) {
-	res.render('index');
+	res.render('search');
 });
 router.get('/courses', function(req, res, next) {
 	db.find(function(err, data) {
