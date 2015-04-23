@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+    
+<html>
+<head>
+    <title>Spire Crawler</title>
+    <link type="text/css" rel="stylesheet" href="search.css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+    <!--Dropdown files-->
+    <link type="text/css" rel="stylesheet" href="dropdown.css"/>
+    
+    <!--jQuery UI files-->
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+    
+    
+</head>
+
+<body>
+    <!--       Main       -->
+    <div id='main'>
+        <!--<p>127.0.0.1:3000/courses</p>-->
+        <p>104.131.30.37:3000/courses</p>
+    </div>
+    
+    <!--    Search Bar    -->
+    <div id='searchbar'>
+        <input type='text' class='searchText' size='21' maxlength=120><input type='submit' class='searchButton'>
+        
+        <!--<div class='filterOutline' id='daysOutline'></div>-->
+        <form class='filter days'>
+            <select id='daysSelect'>
+                <option selected='selected'>days</option>
+            </select>
+        </form>
+        
+        <!--<div class='filterOutline' id='courseComponentOutline'></div>-->
+        <form class='filter courseComponent'>
+            <select id='courseComponentSelect'>
+                <option selected='selected'>course component</option>
+            </select>
+        </form>
+        
+        <!--<div class='filterOutline' id='courseNumberOutline'></div>-->
+        <form class='filter courseNumber'>
+            <select id='courseNumberSelect'>
+                <option selected='selected'>course number</option>
+            </select>
+        </form>
+        
+        <!--<div class='filterOutline' id='courseSubjectOutline'></div>-->
+        <form class='filter courseSubject'>
+            <select id='courseSubjectSelect'>
+                <option selected='selected'>course subject</option>
+                <option>Computer Science</option>
+                <option>Anthropology</option>
+                <option>Mechanical Engineering</option>
+            </select></form>
+        
+        <!--<div class='filterOutline' id='genEdOutline'></div>-->
+        <form class='filter genEd'>
+            <select id='genEdSelect'>
+                <option selected='selected'>gen-ed category</option>
+            </select>
+        </form>
+        
+        <!--<div class='filterOutline' id='courseCareerOutline'></div>-->
+        <form class='filter courseCareer'>
+            <select id='courseCareerSelect'>
+                <option selected='selected'>course career</option>
+            </select>
+        </form>
+        
+        
+    </div>
+    
+    
+    <!--    Side Bar    -->
+    <div id='sidebar'>
+        
+    </div>
+    
+    
+    <!--    Header    -->
+    <div id='header'>
+        <div id='favicon'>M</div><a class='pageLink search'>SEARCH</a><a class='pageLink calendar'>CALENDAR</a>
+        <div id='selectOutline'></div>
+        <form class='cartSelect'>
+            <select>
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+            </select>
+        </form>
+        <div id='cart'>CART</div>
+        
+        <button id='ajaxButton'>click me!</button>
+    </div>
+    
+    
+    
+</body>
+</html>
+
+<!--jQuery files-->
+<script type="text/javascript" src="search.js"></script>
+<script type="text/javascript" src="dropdown.js"></script>
+
