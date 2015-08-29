@@ -179,6 +179,7 @@ input, textarea, select, a { outline: none; }
 	right: 300px;
 	border-bottom: solid 1px #CCCCCB;
 	overflow: auto;
+	background-color: rgba(255,255,255,.87);
 }
 
 .searchText {

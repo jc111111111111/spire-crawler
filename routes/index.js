@@ -13,7 +13,7 @@ router.get('/courses', function(req, res, next) {
 		if(err)
 			console.log(err);
 		else
-			res.send(JSON.stringify(data,null,4));
+			res.json(data));
 	});
 });
 router.get('/:file', function(req, res, next) {

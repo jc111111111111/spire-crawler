@@ -1,7 +1,4 @@
-$(document).ready(function() {
-   
-   //-------------- HEADER EVENTS --------------//
-   $('body').on('mouseover', '.cartSelect', function() {
+$(document).ready(function() { //-------------- HEADER EVENTS --------------// $('body').on('mouseover', '.cartSelect', function() {
       $('.cartSelect').animate({borderColor: '#666666'}, 80);
       $('#selectOutline').animate({borderColor: '#666666'}, 80);
    });
@@ -24,10 +21,11 @@ $(document).ready(function() {
                type: 'GET',
                url: '/courses',
       }).done(function(data) {
-         $('#main').append(data);
-         /*$.each(data, function(){
-            $('#main').append(JSON.stringify(this, null, 3));
-         });*/
+	var text = JSON.stringify(data, null, 10);
+	text = text.replace(/ /g, "&nbsp")
+	text = text.replace(/\\"/g, "\"")
+        $('#main').append(text.replace(/\\n/g, "<br>"));
+        //$('#main').append(text);
       });
    });
    

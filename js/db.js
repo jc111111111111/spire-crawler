@@ -1,4 +1,4 @@
-var db = require('monk')('admin:password@ds059888.mongolab.com:59888/spire-crawler');
+var db = require('monk')('localhost:27017/courses');
 var courses = db.get('courses');
 
 module.exports = {
